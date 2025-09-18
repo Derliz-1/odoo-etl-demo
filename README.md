@@ -40,7 +40,7 @@ Incluye:
 - Configuración lista para PostgreSQL y compatible con Power BI.
 - Proyecto escalable y extensible a más modelos.
 
-👉 **Precio de licencia: USD 3.000** (único pago).  
+👉 **Precio de licencia: USD 2.000** (único pago).  
 👉 Servicios adicionales (instalación, soporte o personalizaciones) se cotizan aparte.
 
 
